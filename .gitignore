@@ -1,6 +1,5 @@
 .env
 .venv
 
-assets/sprites
 __pycache__
 __backup__pokemon_bot.py
