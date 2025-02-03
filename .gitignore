@@ -3,3 +3,7 @@
 
 __pycache__
 __backup__pokemon_bot.py
+
+logs/
+pokemon_sets_data.db
+professor_oak_bot_logs.log
